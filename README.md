@@ -4,7 +4,7 @@ Host/Serve current workspace (or subfolder) with PHP.
 
 ## Features
 
-You can execute it with:
+I can execute it with:
 - Ctrl+shift+P and searching for "Serve Project with PHP"
 - Clicking on the editor's button (right superior corner)
 - Right-clicking on the editor.
